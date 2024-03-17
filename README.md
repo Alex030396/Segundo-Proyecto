@@ -1,3 +1,4 @@
+<p><strong> Visualizar Pagina Web : </strong><a href="https://alex030396.github.io/Primer-proyecto-web.github.io/">Front End Store</a> </p>
 <h1 align="center">Segundo proyecto de programación</h1>
 
 <p>En este proyecto se realizará una pagina web para ventas de unas camisas de programación, llevando a cabo los aprendizajes que eh adquirido. <strong>Usan HTML y CSS.</strong> </p>
